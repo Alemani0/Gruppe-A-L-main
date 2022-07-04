@@ -1,3 +1,0 @@
-### Userstory
-
-**Das Projekt sollte aus dem Systems des "Multiple-Choice" prinzip funktionieren. Hierbei kann man eine von drei "Antwort möglichkeiten" mit der Maus anklicken. In diesem Kästchen soll von Anfang an ein bestimmter Text erscheinen, der einen Helfen soll, eine Antwort abzugeben. Nach dem man eine Antwort abegeben hat, erscheint eine Animation, die das geschehen nochmal visualisiert. Das Projekt soll 2 Geschichten beeinhalten, die das Thema Reise und Horror befassen. Diese Geschichten soll man anhand von den Multiple-choice Antwortmöglichkeiten weiterbringen und das bis zum Ende, sodass man sein "eigenes" Ende erspielt hat. Während des Spiels gibt es ein Knopf, der den Spielstand wieder zurücksetzt und zwar auf die Wahl der Themen.** 
